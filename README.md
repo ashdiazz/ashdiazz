@@ -1,4 +1,4 @@
-## Hello, my name is Ashley and I'm a student studying Computer Science. 
+## Hello, my name is Ashley and I'm a student studying Computer Science. I like gaming and taking nature walks. 
 
 <!--
 **ashdiazz/ashdiazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
